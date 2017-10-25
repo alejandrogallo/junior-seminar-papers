@@ -7,4 +7,6 @@ List of papers for the junior seminar
 
 -   E. Schrödinger, Quantisierung als Eigenwertproblem <https://doi.org/10.1002/andp.19263840404>
 
+-   E. Wigner, On the Quantum Correction For Thermodynamic Equilibrium, <https://doi.org/10.1103/PhysRev.40.749>. (Suplementing material <http://aapt.scitation.org/doi/pdf/10.1119/1.2957889>)
+
 
