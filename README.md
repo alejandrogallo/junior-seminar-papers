@@ -5,6 +5,6 @@ List of papers for the junior seminar
 
 -   David Derbes, Feynman’s derivation of the Schrödinger equation, <http://aapt.scitation.org/doi/10.1119/1.18114>
 
--   E. Schrödinger, Quantisierung als Eigenwertproblem [ http://doi.org/10.1002/andp.19263840404 ]( http://doi.org/10.1002/andp.19263840404 )
+-   E. Schrödinger, Quantisierung als Eigenwertproblem <https://doi.org/10.1002/andp.19263840404>
 
 
