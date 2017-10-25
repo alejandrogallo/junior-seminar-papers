@@ -1,4 +1,4 @@
 \item
   {doc[author]},
   {doc[title]},
-  \url{{ https://doi.org/{doc[doi]} }}
+  \url{{https://doi.org/{doc[doi]}}}
