@@ -15,4 +15,6 @@ List of papers for the junior seminar
 
 7.  J. Goldstone, Derivation of the Brueckner Many-Body Theory, <https://doi.org/10.1098/rspa.1957.0037>
 
+8.  Richard A. Friesner, Solution of self-consistent field electronic structure equations by a pseudospectral method, <https://doi.org/10.1016/0009-2614(85)80121-4>
+
 
